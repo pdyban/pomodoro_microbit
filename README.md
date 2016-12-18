@@ -3,7 +3,11 @@ This MicroPython project implements the Pomodoro timer for BBC micro:bit control
 
 # Links
 [http://microbit.org](micro:bit)
+
 [https://micropython.org](MicroPython)
+
 [https://microbit-micropython.readthedocs.io/en/latest/tutorials/introduction.html](Python for micro:bit)
+
 [https://www.microbit.co.uk/app](Online micro:bit Python editor)
+
 [https://en.wikipedia.org/wiki/Pomodoro_Technique](Pomodoro Technique)
