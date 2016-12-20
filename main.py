@@ -80,7 +80,10 @@ while True:
     if button_b.is_pressed():  # pause button
         pause = not pause
         if pause:
-            display.show(Image.SAD)
+            if finished:
+                display.show(Image.HAPPY)
+            else:
+                display.show(Image.SAD)
         sleep(200)
 
     if accelerometer.was_gesture('shake'):
